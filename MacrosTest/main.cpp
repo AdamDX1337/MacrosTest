@@ -65,8 +65,8 @@ int main()
             std::cout << "Done";
         }
 
-        if (clickTrack == 100) {
-            std::cout << "1000x\n";
+        if (clickTrack == 1000) {
+            std::cout << "Clicked 1000x\n";
             clickTrack = 0;
         }
         if (spaceTrack == 1000) {
